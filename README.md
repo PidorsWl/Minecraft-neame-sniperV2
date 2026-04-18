@@ -5,7 +5,7 @@ Minecraft-neame-sniperV2
 HOW TO START
 
 
-(cd Minecraft-neame-sniperV2)    (pm2 start lookup.exe)    (pm2 start usergrabber.py)   (add proxys to proxies.txt)
+(cd Minecraft-neame-sniperV2)    (pm2 start lookup.exe)    (pm2 start usergrabber.py)   (add proxys to proxies.txt)   (add minecraft ssids to tokens.txt)
 
 
 
